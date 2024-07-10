@@ -1,5 +1,5 @@
 # Project Title
-Metacrafters assessment of module 1 for ETH-AVAX Course
+Metacrafters assessment of Module 1 for ETH-AVAX Course
 
 ## Description
 This is the evaluation for a section of a program named Eth-AVAX-Proof offered by Metacrafters, a multi-chain educational platform that allows users to earn while learning. In this class, we covered various blockchain ideas and began exploring the world of blockchain and Avalanche by establishing a base in Solidity and Avalanche.
